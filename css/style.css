@@ -648,7 +648,7 @@ nav {
   width: 1039px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: inline;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -683,7 +683,7 @@ nav {
 
 .dest__card:hover {
   -webkit-transform: scale(1);
-  transform: scale(0);
+  transform: scale(1);
   -webkit-transition: 1.5s;
   transition: 1.5s;
   cursor: pointer;
