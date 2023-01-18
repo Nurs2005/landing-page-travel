@@ -614,7 +614,6 @@ nav {
 
 .destination {
   height: 630px;
-          background-color: #080809;
 }
 
 .destination__title__block p {
@@ -658,6 +657,7 @@ nav {
           align-items: center;
   margin: 0 auto;
   margin-top: 60px;
+            background-color: #080809;
 }
 
 .dest__card {
