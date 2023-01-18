@@ -845,7 +845,7 @@ nav {
   }
   .destination .dest__cards {
     width: 20px;
-    display: flex;
+    display: inline;
     margin-left: 0;
     margin-right: 0;
     margin-top: 20px;
