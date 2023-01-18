@@ -614,6 +614,7 @@ nav {
 
 .destination {
   height: 630px;
+          background-color: #080809;
 }
 
 .destination__title__block p {
@@ -645,7 +646,6 @@ nav {
 }
 
 .dest__cards {
-        background-color: #080809;
   width: 1039px;
   display: -webkit-box;
   display: -ms-flexbox;
