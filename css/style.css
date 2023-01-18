@@ -648,7 +648,7 @@ nav {
   width: 1039px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: inline;
+  display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
